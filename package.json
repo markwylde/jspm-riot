@@ -1,6 +1,6 @@
 {
     "name": "jspm-riot",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A riot plugin for System.JS and/or JSPM to load tag files while keeping ES6 support",
     "main": "tag",
     "files": [
