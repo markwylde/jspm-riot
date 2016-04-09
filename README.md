@@ -1,9 +1,9 @@
 # jspm-riot
-This is a SystemJS/JSPM library for compiling riot tags before requiring them using es6 import syntax.
+This is a SystemJS/JSPM library for compiling riot tags before requiring them using es6 import syntax. It is implemented in under 5 lines of code, and only depends on the riot compiler.
 
 ## Installation
 To install simply run:
-```bash
+```shell
 jspm install tag=npm:jspm-riot
 ```
 
