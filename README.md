@@ -11,7 +11,7 @@ jspm install tag=npm:jspm-riot
 ```
 
 ## Usage
-To use you can import or require as below. Please note the exlamation point at the end:
+To use you can import as below. Please note the exlamation point at the end:
 ```javascript
 import 'example.tag!'
 ```
