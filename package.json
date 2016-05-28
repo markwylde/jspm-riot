@@ -1,6 +1,6 @@
 {
     "name": "jspm-riot",
-    "version": "1.0.2",
+    "version": "2.0.0",
     "description": "A riot plugin for System.JS and/or JSPM to load tag files while keeping ES6 support",
     "main": "tag",
     "files": [
@@ -17,15 +17,15 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "riot-compiler": "^2.3.23"
+        "riot-compiler": "^3.0.0-alpha.1"
     },
     "jspm": {
         "jspmNodeConversion": false,
         "dependencies": {
-            "riot-compiler": "npm:riot-compiler@2.3.23"
+            "riot-compiler": "npm:riot-compiler@3.0.0-alpha.1"
         },
         "overrides": {
-            "github:riot/riot@2.3.18": {
+            "github:riot/riot@3.0.0-alpha.4": {
                 "main": "riot.js"
             }
         }
