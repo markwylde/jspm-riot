@@ -12,7 +12,7 @@ jspm install tag=npm:jspm-riot
 
 Note jspm-riot also supports riot@next:
 ```shell
-jspm install tag=npm:jspm-riot@next
+jspm install tag=npm:jspm-riot@2.0.0
 ```
 
 ## Usage
