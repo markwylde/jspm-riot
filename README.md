@@ -10,6 +10,11 @@ To install simply run:
 jspm install tag=npm:jspm-riot
 ```
 
+Note jspm-riot also supports riot@next:
+```shell
+jspm install tag=npm:jspm-riot@next
+```
+
 ## Usage
 To use you can import as below. Please note the exlamation point at the end:
 ```javascript
